@@ -1,3 +1,4 @@
 {
-    "build-script": "python run.py test vgg16"
+    "dockerhub-id": "angela010101/quarter1:latest",
+    "build-script": "python run.py test resnet152 64"
 }
